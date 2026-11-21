@@ -1,4 +1,4 @@
-# EgoPhys
+# EgoPhys: Estimating Peak Contact Force and Mechanical Work from Egocentric Manipulation Video
 
 EgoPhys predicts peak contact force in newtons and contact-phase mechanical work in joules from a head-mounted RGB clip. It uses frozen DINOv3 and Depth Anything 3 encoders.
 
