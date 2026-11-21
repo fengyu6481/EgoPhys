@@ -1,0 +1,2398 @@
+{
+  "bathroom_1__bathroom_1_1-2_gripper_vrs": {
+    "window_0": {
+      "start_ns": 793850324268,
+      "end_ns": 815156386183,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 21.306061915
+    },
+    "window_1": {
+      "start_ns": 816956903225,
+      "end_ns": 839763487518,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 22.806584293
+    },
+    "window_2": {
+      "start_ns": 841163893518,
+      "end_ns": 853167376642,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 12.003483124
+    },
+    "window_3": {
+      "start_ns": 854967900101,
+      "end_ns": 865470956268,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 10.503056167
+    }
+  },
+  "bathroom_2__bathroom_2_1-5_gripper_vrs": {
+    "window_0": {
+      "start_ns": 1410753840039,
+      "end_ns": 1429760184997,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 19.006344958
+    },
+    "window_1": {
+      "start_ns": 1430460419955,
+      "end_ns": 1436962604872,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 6.502184917
+    },
+    "window_2": {
+      "start_ns": 1437462773122,
+      "end_ns": 1448466481706,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 11.003708584
+    },
+    "window_3": {
+      "start_ns": 1449066684373,
+      "end_ns": 1457469523372,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 8.402838999
+    },
+    "window_4": {
+      "start_ns": 1458169760205,
+      "end_ns": 1468873378623,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 10.703618418000001
+    },
+    "window_5": {
+      "start_ns": 1469373547663,
+      "end_ns": 1479677032997,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 10.303485334000001
+    },
+    "window_6": {
+      "start_ns": 1480277235998,
+      "end_ns": 1492681435373,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 12.404199375000001
+    },
+    "window_7": {
+      "start_ns": 1493281638705,
+      "end_ns": 1502884890914,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 9.603252209
+    },
+    "window_8": {
+      "start_ns": 1503585128205,
+      "end_ns": 1516389474206,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 12.804346001
+    },
+    "window_9": {
+      "start_ns": 1516989678080,
+      "end_ns": 1530194166663,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 13.204488583000002
+    },
+    "window_10": {
+      "start_ns": 1530894404705,
+      "end_ns": 1554202337205,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 23.3079325
+    },
+    "window_11": {
+      "start_ns": 1554902575538,
+      "end_ns": 1563038679247,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 8.136103709
+    }
+  },
+  "bedroom_1__bedroom_1_1-8_gripper_vrs": {
+    "window_0": {
+      "start_ns": 1171934765833,
+      "end_ns": 1183638784249,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 11.704018416
+    },
+    "window_1": {
+      "start_ns": 1185139299166,
+      "end_ns": 1195142732874,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.003433708000001
+    },
+    "window_2": {
+      "start_ns": 1197143419583,
+      "end_ns": 1209447641416,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 12.304221833000001
+    },
+    "window_3": {
+      "start_ns": 1210447984541,
+      "end_ns": 1220351382207,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 9.903397666
+    },
+    "window_4": {
+      "start_ns": 1222051965624,
+      "end_ns": 1232555567707,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 10.503602083
+    },
+    "window_5": {
+      "start_ns": 1233956047833,
+      "end_ns": 1244259580375,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 10.303532542000001
+    },
+    "window_6": {
+      "start_ns": 1245960163415,
+      "end_ns": 1258164348165,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 12.204184750000001
+    },
+    "window_7": {
+      "start_ns": 1259864930791,
+      "end_ns": 1271368873665,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 11.503942874000002
+    },
+    "window_8": {
+      "start_ns": 1272369216582,
+      "end_ns": 1286474050375,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 14.104833793000001
+    },
+    "window_9": {
+      "start_ns": 1288174632832,
+      "end_ns": 1300478847666,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 12.304214834000001
+    },
+    "window_10": {
+      "start_ns": 1301879327624,
+      "end_ns": 1316584363333,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 14.705035709
+    },
+    "window_11": {
+      "start_ns": 1317584705790,
+      "end_ns": 1331989639040,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 14.404933250000001
+    },
+    "window_12": {
+      "start_ns": 1333290084332,
+      "end_ns": 1345894398915,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 12.604314583
+    },
+    "window_13": {
+      "start_ns": 1346694672958,
+      "end_ns": 1359098919457,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 12.404246499000001
+    },
+    "window_14": {
+      "start_ns": 1360499399082,
+      "end_ns": 1375604568041,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 15.105168959
+    },
+    "window_15": {
+      "start_ns": 1376704944582,
+      "end_ns": 1391710080915,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 15.005136333000001
+    }
+  },
+  "bedroom_4__bedroom_4_1-11_gripper_vrs": {
+    "window_0": {
+      "start_ns": 2587448315690,
+      "end_ns": 2600052132648,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 12.603816958000001
+    },
+    "window_1": {
+      "start_ns": 2602152769648,
+      "end_ns": 2616157027857,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 14.004258209000001
+    },
+    "window_2": {
+      "start_ns": 2617757515982,
+      "end_ns": 2632261947231,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 14.504431249000001
+    },
+    "window_3": {
+      "start_ns": 2633462314356,
+      "end_ns": 2646166206148,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 12.703891792
+    },
+    "window_4": {
+      "start_ns": 2647866727565,
+      "end_ns": 2658469980981,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 10.603253416000001
+    },
+    "window_5": {
+      "start_ns": 2660170503065,
+      "end_ns": 2672974437356,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 12.803934291000001
+    },
+    "window_6": {
+      "start_ns": 2674274837231,
+      "end_ns": 2687278837273,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 13.004000042000001
+    },
+    "window_7": {
+      "start_ns": 2689179422149,
+      "end_ns": 2702316795773,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 13.137373624
+    },
+    "window_8": {
+      "start_ns": 2704117349440,
+      "end_ns": 2717321412023,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 13.204062583
+    },
+    "window_9": {
+      "start_ns": 2718821873815,
+      "end_ns": 2731325723774,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 12.503849959
+    },
+    "window_10": {
+      "start_ns": 2733026247481,
+      "end_ns": 2746330346107,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 13.304098626
+    },
+    "window_11": {
+      "start_ns": 2748130900981,
+      "end_ns": 2762435309566,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 14.304408585000001
+    },
+    "window_12": {
+      "start_ns": 2764135833816,
+      "end_ns": 2778040119356,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 13.90428554
+    },
+    "window_13": {
+      "start_ns": 2779740642856,
+      "end_ns": 2792394529523,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 12.653886667
+    },
+    "window_14": {
+      "start_ns": 2794095048065,
+      "end_ns": 2808949535690,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 14.854487625
+    },
+    "window_15": {
+      "start_ns": 2810800089732,
+      "end_ns": 2827455030440,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 16.654940708
+    },
+    "window_16": {
+      "start_ns": 2829105515941,
+      "end_ns": 2847577596981,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 18.472081040000003
+    },
+    "window_17": {
+      "start_ns": 2849278099523,
+      "end_ns": 2868683889273,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 19.40578975
+    },
+    "window_18": {
+      "start_ns": 2881587776857,
+      "end_ns": 2899193109481,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 17.605332624000003
+    },
+    "window_19": {
+      "start_ns": 2901093686690,
+      "end_ns": 2916398341315,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 15.304654625000001
+    },
+    "window_20": {
+      "start_ns": 2918298920273,
+      "end_ns": 2927134947398,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 8.836027125000001
+    },
+    "window_21": {
+      "start_ns": 2928535374648,
+      "end_ns": 2936637847356,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 8.102472708
+    }
+  },
+  "bedroom_4__bedroom_4_12-14_gripper_vrs": {
+    "window_0": {
+      "start_ns": 3340719301169,
+      "end_ns": 3354473316335,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 13.754015166
+    },
+    "window_1": {
+      "start_ns": 3355673665126,
+      "end_ns": 3366726867293,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 11.053202167
+    },
+    "window_2": {
+      "start_ns": 3367927213919,
+      "end_ns": 3377579993918,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 9.652779999
+    },
+    "window_3": {
+      "start_ns": 3378680310044,
+      "end_ns": 3388433105459,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 9.752795415000001
+    },
+    "window_4": {
+      "start_ns": 3389533420544,
+      "end_ns": 3401686896043,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 12.153475499
+    },
+    "window_5": {
+      "start_ns": 3418091575584,
+      "end_ns": 3437797174794,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 19.705599210000003
+    }
+  },
+  "bedroom_5__bedroom_5_1-5_gripper_vrs": {
+    "window_0": {
+      "start_ns": 3557559210499,
+      "end_ns": 3569563272874,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 12.004062375
+    },
+    "window_1": {
+      "start_ns": 3571113794541,
+      "end_ns": 3579166494583,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 8.052700042
+    },
+    "window_2": {
+      "start_ns": 3580416912291,
+      "end_ns": 3593071124083,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 12.654211792
+    },
+    "window_3": {
+      "start_ns": 3594421571749,
+      "end_ns": 3608392854416,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 13.971282667
+    },
+    "window_4": {
+      "start_ns": 3609893350041,
+      "end_ns": 3621397168291,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 11.50381825
+    },
+    "window_5": {
+      "start_ns": 3622897669124,
+      "end_ns": 3637802667041,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 14.904997917000001
+    },
+    "window_6": {
+      "start_ns": 3639103104791,
+      "end_ns": 3649106478083,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 10.003373292000001
+    },
+    "window_7": {
+      "start_ns": 3650406917333,
+      "end_ns": 3662110877541,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 11.703960208000002
+    },
+    "window_8": {
+      "start_ns": 3672014235833,
+      "end_ns": 3687019333749,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 15.005097916
+    },
+    "window_9": {
+      "start_ns": 3688519843916,
+      "end_ns": 3701690975083,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 13.171131167
+    }
+  },
+  "bedroom_6__bedroom_6_1-5_gripper_vrs": {
+    "window_0": {
+      "start_ns": 201257514815,
+      "end_ns": 212161170398,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 10.903655583
+    },
+    "window_1": {
+      "start_ns": 213261540689,
+      "end_ns": 223865117856,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.603577167000001
+    },
+    "window_2": {
+      "start_ns": 225465659023,
+      "end_ns": 236669454524,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 11.203795501
+    },
+    "window_3": {
+      "start_ns": 238169963481,
+      "end_ns": 251374450273,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 13.204486792
+    },
+    "window_4": {
+      "start_ns": 252774926731,
+      "end_ns": 261377855314,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 8.602928583
+    },
+    "window_5": {
+      "start_ns": 262378195856,
+      "end_ns": 270080821564,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 7.702625708
+    },
+    "window_6": {
+      "start_ns": 271281231356,
+      "end_ns": 279183930189,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 7.9026988330000005
+    },
+    "window_7": {
+      "start_ns": 280384340439,
+      "end_ns": 287986939773,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 7.602599334000001
+    },
+    "window_8": {
+      "start_ns": 289187350481,
+      "end_ns": 298390500023,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 9.203149542
+    },
+    "window_9": {
+      "start_ns": 299390842523,
+      "end_ns": 307576973648,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 8.186131125000001
+    }
+  },
+  "bedroom_8__bedroom_8_1-6_gripper_vrs": {
+    "window_0": {
+      "start_ns": 3341695886084,
+      "end_ns": 3354499500209,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 12.803614125000001
+    },
+    "window_1": {
+      "start_ns": 3355699841501,
+      "end_ns": 3366202843043,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.503001542
+    },
+    "window_2": {
+      "start_ns": 3367603245001,
+      "end_ns": 3381307194292,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 13.703949291
+    },
+    "window_3": {
+      "start_ns": 3382507541250,
+      "end_ns": 3394811105626,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 12.303564376
+    },
+    "window_4": {
+      "start_ns": 3396011454168,
+      "end_ns": 3409015230209,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 13.003776041
+    },
+    "window_5": {
+      "start_ns": 3410515666501,
+      "end_ns": 3422819249460,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 12.303582959000002
+    },
+    "window_6": {
+      "start_ns": 3424019599043,
+      "end_ns": 3435823039793,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 11.80344075
+    },
+    "window_7": {
+      "start_ns": 3437523536084,
+      "end_ns": 3448126631418,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 10.603095334
+    },
+    "window_8": {
+      "start_ns": 3449527040000,
+      "end_ns": 3462730898668,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 13.203858668
+    },
+    "window_9": {
+      "start_ns": 3463931249793,
+      "end_ns": 3474234263084,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 10.303013291000001
+    },
+    "window_10": {
+      "start_ns": 3475834731292,
+      "end_ns": 3486637894043,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 10.803162751
+    },
+    "window_11": {
+      "start_ns": 3488138333543,
+      "end_ns": 3497341031334,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 9.202697791
+    }
+  },
+  "fridge_1__fridge_1_1-4_gripper_vrs": {
+    "window_0": {
+      "start_ns": 97414599324,
+      "end_ns": 106667580116,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 9.252980792
+    },
+    "window_1": {
+      "start_ns": 107667901408,
+      "end_ns": 114670143950,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 7.002242542
+    },
+    "window_2": {
+      "start_ns": 125373550450,
+      "end_ns": 134076306949,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 8.702756499000001
+    },
+    "window_3": {
+      "start_ns": 135126638825,
+      "end_ns": 142929099534,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 7.802460709000001
+    },
+    "window_4": {
+      "start_ns": 153832522241,
+      "end_ns": 161534930241,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 7.702408
+    },
+    "window_5": {
+      "start_ns": 162685289325,
+      "end_ns": 170987874741,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 8.302585416000001
+    },
+    "window_6": {
+      "start_ns": 187126250116,
+      "end_ns": 194128471034,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 7.002220918000001
+    },
+    "window_7": {
+      "start_ns": 195028757824,
+      "end_ns": 201830930491,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 6.802172667000001
+    }
+  },
+  "kitchen_14__kitchen_14_1-14_gripper_vrs": {
+    "window_0": {
+      "start_ns": 798771202754,
+      "end_ns": 807074125213,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 8.302922459000001
+    },
+    "window_1": {
+      "start_ns": 808174512421,
+      "end_ns": 815076940254,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 6.902427833000001
+    },
+    "window_2": {
+      "start_ns": 816077292129,
+      "end_ns": 823479896338,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 7.402604209000001
+    },
+    "window_3": {
+      "start_ns": 824280177754,
+      "end_ns": 830782464671,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 6.502286917
+    },
+    "window_4": {
+      "start_ns": 831582745921,
+      "end_ns": 838885313379,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 7.302567458
+    },
+    "window_5": {
+      "start_ns": 839785630046,
+      "end_ns": 847088198129,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 7.302568083000001
+    },
+    "window_6": {
+      "start_ns": 847888479379,
+      "end_ns": 858292135838,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 10.403656459
+    },
+    "window_7": {
+      "start_ns": 859292487504,
+      "end_ns": 867195265004,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 7.902777500000001
+    },
+    "window_8": {
+      "start_ns": 868095581546,
+      "end_ns": 875998358046,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 7.902776500000001
+    },
+    "window_9": {
+      "start_ns": 876898674254,
+      "end_ns": 884001170046,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 7.102495792
+    },
+    "window_10": {
+      "start_ns": 885001521463,
+      "end_ns": 892904298171,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 7.902776708
+    },
+    "window_11": {
+      "start_ns": 893804614338,
+      "end_ns": 901607354588,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 7.80274025
+    },
+    "window_12": {
+      "start_ns": 902707741046,
+      "end_ns": 911810938629,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 9.103197583
+    },
+    "window_13": {
+      "start_ns": 912711254713,
+      "end_ns": 921514344754,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 8.803090041
+    },
+    "window_14": {
+      "start_ns": 922414660796,
+      "end_ns": 931817962254,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 9.403301458000001
+    },
+    "window_15": {
+      "start_ns": 932918348546,
+      "end_ns": 941121228504,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 8.202879958
+    },
+    "window_16": {
+      "start_ns": 942221614713,
+      "end_ns": 951424845546,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 9.203230833000001
+    },
+    "window_17": {
+      "start_ns": 952525231796,
+      "end_ns": 962028565963,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 9.503334167
+    },
+    "window_18": {
+      "start_ns": 962928881921,
+      "end_ns": 971631936213,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 8.703054292000001
+    },
+    "window_19": {
+      "start_ns": 972632287296,
+      "end_ns": 980334989504,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 7.702702208000001
+    },
+    "window_20": {
+      "start_ns": 981235305254,
+      "end_ns": 988737937213,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 7.502631959
+    },
+    "window_21": {
+      "start_ns": 989538218004,
+      "end_ns": 997741095379,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 8.202877375
+    },
+    "window_22": {
+      "start_ns": 998541375879,
+      "end_ns": 1006044006421,
+      "single_word_description": "open",
+      "index": 12,
+      "duration_s": 7.502630542
+    },
+    "window_23": {
+      "start_ns": 1006944322088,
+      "end_ns": 1014947128171,
+      "single_word_description": "close",
+      "index": 12,
+      "duration_s": 8.002806083000001
+    },
+    "window_24": {
+      "start_ns": 1015647373629,
+      "end_ns": 1023350074088,
+      "single_word_description": "open",
+      "index": 13,
+      "duration_s": 7.702700459000001
+    },
+    "window_25": {
+      "start_ns": 1024150354671,
+      "end_ns": 1031252844254,
+      "single_word_description": "close",
+      "index": 13,
+      "duration_s": 7.1024895830000006
+    },
+    "window_26": {
+      "start_ns": 1032153159796,
+      "end_ns": 1040556105004,
+      "single_word_description": "open",
+      "index": 14,
+      "duration_s": 8.402945208
+    },
+    "window_27": {
+      "start_ns": 1041456420546,
+      "end_ns": 1049159120588,
+      "single_word_description": "close",
+      "index": 14,
+      "duration_s": 7.702700042000001
+    }
+  },
+  "kitchen_15__kitchen_15_1-11_gripper_vrs": {
+    "window_0": {
+      "start_ns": 271631825636,
+      "end_ns": 286987167595,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 15.355341959
+    },
+    "window_1": {
+      "start_ns": 288087549345,
+      "end_ns": 296540478677,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 8.452929332
+    },
+    "window_2": {
+      "start_ns": 298141032345,
+      "end_ns": 305543591844,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 7.4025594990000005
+    },
+    "window_3": {
+      "start_ns": 307394230928,
+      "end_ns": 315697094553,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 8.302863625
+    },
+    "window_4": {
+      "start_ns": 316797473594,
+      "end_ns": 325150350637,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 8.352877043000001
+    },
+    "window_5": {
+      "start_ns": 326400781011,
+      "end_ns": 334553583761,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 8.152802750000001
+    },
+    "window_6": {
+      "start_ns": 335603944387,
+      "end_ns": 344156877262,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 8.552932875
+    },
+    "window_7": {
+      "start_ns": 345307271137,
+      "end_ns": 353009906136,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 7.702634999000001
+    },
+    "window_8": {
+      "start_ns": 354110282220,
+      "end_ns": 362763236928,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 8.652954708000001
+    },
+    "window_9": {
+      "start_ns": 363663544178,
+      "end_ns": 371866340220,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 8.202796042000001
+    },
+    "window_10": {
+      "start_ns": 372866680886,
+      "end_ns": 383620340261,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 10.753659375
+    },
+    "window_11": {
+      "start_ns": 384670697512,
+      "end_ns": 393623741386,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 8.953043874
+    },
+    "window_12": {
+      "start_ns": 394574064095,
+      "end_ns": 403527103094,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 8.953038999
+    },
+    "window_13": {
+      "start_ns": 404677492845,
+      "end_ns": 413530489345,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 8.8529965
+    },
+    "window_14": {
+      "start_ns": 414530827762,
+      "end_ns": 436088105803,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 21.557278041
+    },
+    "window_15": {
+      "start_ns": 437338527012,
+      "end_ns": 449342570344,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 12.004043332
+    },
+    "window_16": {
+      "start_ns": 450492957636,
+      "end_ns": 460596354178,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 10.103396542
+    },
+    "window_17": {
+      "start_ns": 461646706678,
+      "end_ns": 469199239344,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 7.552532666
+    },
+    "window_18": {
+      "start_ns": 470299607969,
+      "end_ns": 478452338261,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 8.152730292000001
+    },
+    "window_19": {
+      "start_ns": 479752773428,
+      "end_ns": 487205266720,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 7.452493292000001
+    },
+    "window_20": {
+      "start_ns": 488105567552,
+      "end_ns": 496558391095,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 8.452823543000001
+    },
+    "window_21": {
+      "start_ns": 497608741677,
+      "end_ns": 505861497887,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 8.252756210000001
+    }
+  },
+  "kitchen_15__kitchen_15_12-26_gripper_vrs": {
+    "window_0": {
+      "start_ns": 1588258483286,
+      "end_ns": 1597261495244,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 9.003011958
+    },
+    "window_1": {
+      "start_ns": 1598161797453,
+      "end_ns": 1606164489119,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 8.002691666
+    },
+    "window_2": {
+      "start_ns": 1607064792578,
+      "end_ns": 1614267223161,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 7.202430583000001
+    },
+    "window_3": {
+      "start_ns": 1615267560995,
+      "end_ns": 1622369962370,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 7.102401375
+    },
+    "window_4": {
+      "start_ns": 1623170233077,
+      "end_ns": 1630672772078,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 7.502539001000001
+    },
+    "window_5": {
+      "start_ns": 1631473043120,
+      "end_ns": 1639975925786,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 8.502882666
+    },
+    "window_6": {
+      "start_ns": 1640576129619,
+      "end_ns": 1647878610035,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 7.302480416000001
+    },
+    "window_7": {
+      "start_ns": 1648678882078,
+      "end_ns": 1656281468369,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 7.602586291000001
+    },
+    "window_8": {
+      "start_ns": 1656981706828,
+      "end_ns": 1665684671161,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 8.702964333
+    },
+    "window_9": {
+      "start_ns": 1666284875620,
+      "end_ns": 1674487671911,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 8.202796291
+    },
+    "window_10": {
+      "start_ns": 1675287944745,
+      "end_ns": 1683290673869,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 8.002729124
+    },
+    "window_11": {
+      "start_ns": 1684090946911,
+      "end_ns": 1690593165160,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 6.502218249
+    },
+    "window_12": {
+      "start_ns": 1691193369870,
+      "end_ns": 1698395827453,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 7.202457583
+    },
+    "window_13": {
+      "start_ns": 1699196100286,
+      "end_ns": 1705598284911,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 6.402184625
+    },
+    "window_14": {
+      "start_ns": 1706298524035,
+      "end_ns": 1713300914245,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 7.002390210000001
+    },
+    "window_15": {
+      "start_ns": 1713901119120,
+      "end_ns": 1720836819953,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 6.935700833
+    },
+    "window_16": {
+      "start_ns": 1721637092620,
+      "end_ns": 1727889215203,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 6.252122583
+    },
+    "window_17": {
+      "start_ns": 1728839536786,
+      "end_ns": 1735791882702,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 6.9523459160000005
+    },
+    "window_18": {
+      "start_ns": 1736692185453,
+      "end_ns": 1747095672286,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 10.403486833
+    },
+    "window_19": {
+      "start_ns": 1747945956619,
+      "end_ns": 1754598176952,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 6.652220333000001
+    },
+    "window_20": {
+      "start_ns": 1755498477120,
+      "end_ns": 1762750889120,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 7.2524120000000005
+    },
+    "window_21": {
+      "start_ns": 1763601171286,
+      "end_ns": 1770003293286,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 6.402122
+    },
+    "window_22": {
+      "start_ns": 1770903591202,
+      "end_ns": 1777889231786,
+      "single_word_description": "open",
+      "index": 12,
+      "duration_s": 6.985640584
+    },
+    "window_23": {
+      "start_ns": 1778889561952,
+      "end_ns": 1786091947703,
+      "single_word_description": "close",
+      "index": 12,
+      "duration_s": 7.2023857510000004
+    },
+    "window_24": {
+      "start_ns": 1786592113911,
+      "end_ns": 1794094613745,
+      "single_word_description": "open",
+      "index": 13,
+      "duration_s": 7.502499834000001
+    },
+    "window_25": {
+      "start_ns": 1794794847494,
+      "end_ns": 1801697156411,
+      "single_word_description": "close",
+      "index": 13,
+      "duration_s": 6.902308917
+    },
+    "window_26": {
+      "start_ns": 1802497424536,
+      "end_ns": 1811000279745,
+      "single_word_description": "open",
+      "index": 14,
+      "duration_s": 8.502855209
+    },
+    "window_27": {
+      "start_ns": 1812000616453,
+      "end_ns": 1819203045911,
+      "single_word_description": "close",
+      "index": 14,
+      "duration_s": 7.202429458
+    },
+    "window_28": {
+      "start_ns": 1820103349911,
+      "end_ns": 1827305785411,
+      "single_word_description": "open",
+      "index": 15,
+      "duration_s": 7.202435500000001
+    },
+    "window_29": {
+      "start_ns": 1828706259495,
+      "end_ns": 1833274473869,
+      "single_word_description": "close",
+      "index": 15,
+      "duration_s": 4.568214374
+    }
+  },
+  "kitchen_17__kitchen_17_1-15_gripper_vrs": {
+    "window_0": {
+      "start_ns": 106777269593,
+      "end_ns": 116380340592,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 9.603070999
+    },
+    "window_1": {
+      "start_ns": 117380659800,
+      "end_ns": 124482920175,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 7.102260375
+    },
+    "window_2": {
+      "start_ns": 125383206050,
+      "end_ns": 135036265676,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 9.653059626000001
+    },
+    "window_3": {
+      "start_ns": 136236645384,
+      "end_ns": 143388905717,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 7.152260333
+    },
+    "window_4": {
+      "start_ns": 144489253134,
+      "end_ns": 152791870718,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 8.302617584
+    },
+    "window_5": {
+      "start_ns": 154192311051,
+      "end_ns": 162394886968,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 8.202575917
+    },
+    "window_6": {
+      "start_ns": 163445216259,
+      "end_ns": 172197957384,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 8.752741125
+    },
+    "window_7": {
+      "start_ns": 173148254467,
+      "end_ns": 179550252050,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 6.401997583
+    },
+    "window_8": {
+      "start_ns": 180300485842,
+      "end_ns": 189203256301,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 8.902770459000001
+    },
+    "window_9": {
+      "start_ns": 190153551425,
+      "end_ns": 197855941135,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 7.70238971
+    },
+    "window_10": {
+      "start_ns": 198656188925,
+      "end_ns": 219079208550,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 20.423019625000002
+    },
+    "window_11": {
+      "start_ns": 220179555467,
+      "end_ns": 229582536759,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 9.402981292
+    },
+    "window_12": {
+      "start_ns": 230482823467,
+      "end_ns": 239985862509,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 9.503039042000001
+    },
+    "window_13": {
+      "start_ns": 241086215675,
+      "end_ns": 248888725550,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 7.802509875
+    },
+    "window_14": {
+      "start_ns": 249789015717,
+      "end_ns": 258691891300,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 8.902875583
+    },
+    "window_15": {
+      "start_ns": 259592182592,
+      "end_ns": 268295002509,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 8.702819917000001
+    },
+    "window_16": {
+      "start_ns": 269095262260,
+      "end_ns": 278498316967,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 9.403054707
+    },
+    "window_17": {
+      "start_ns": 279198544675,
+      "end_ns": 288168126550,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 8.969581875000001
+    },
+    "window_18": {
+      "start_ns": 288918369384,
+      "end_ns": 298321392550,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 9.403023166
+    },
+    "window_19": {
+      "start_ns": 299121648259,
+      "end_ns": 309474939176,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 10.353290917
+    },
+    "window_20": {
+      "start_ns": 310225176467,
+      "end_ns": 317277400134,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 7.052223667000001
+    },
+    "window_21": {
+      "start_ns": 317977620300,
+      "end_ns": 325029831884,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 7.052211584
+    },
+    "window_22": {
+      "start_ns": 325880097925,
+      "end_ns": 334432766135,
+      "single_word_description": "open",
+      "index": 12,
+      "duration_s": 8.55266821
+    },
+    "window_23": {
+      "start_ns": 335082968551,
+      "end_ns": 342385236092,
+      "single_word_description": "close",
+      "index": 12,
+      "duration_s": 7.302267541000001
+    },
+    "window_24": {
+      "start_ns": 343185484092,
+      "end_ns": 350921214675,
+      "single_word_description": "open",
+      "index": 13,
+      "duration_s": 7.7357305830000005
+    },
+    "window_25": {
+      "start_ns": 351621432634,
+      "end_ns": 358423562010,
+      "single_word_description": "close",
+      "index": 13,
+      "duration_s": 6.802129376000001
+    },
+    "window_26": {
+      "start_ns": 359223813635,
+      "end_ns": 367926564384,
+      "single_word_description": "open",
+      "index": 14,
+      "duration_s": 8.702750749
+    },
+    "window_27": {
+      "start_ns": 368726818509,
+      "end_ns": 376729366259,
+      "single_word_description": "close",
+      "index": 14,
+      "duration_s": 8.00254775
+    },
+    "window_28": {
+      "start_ns": 377429589800,
+      "end_ns": 384831958051,
+      "single_word_description": "open",
+      "index": 15,
+      "duration_s": 7.402368251
+    },
+    "window_29": {
+      "start_ns": 385732246676,
+      "end_ns": 393334688092,
+      "single_word_description": "close",
+      "index": 15,
+      "duration_s": 7.6024414160000005
+    }
+  },
+  "kitchen_7__kitchen_7_1-3-5-7-9_gripper_vrs": {
+    "window_0": {
+      "start_ns": 584465143918,
+      "end_ns": 599169804876,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 14.704660958000002
+    },
+    "window_1": {
+      "start_ns": 602170758001,
+      "end_ns": 613274289584,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 11.103531583
+    },
+    "window_2": {
+      "start_ns": 615975149626,
+      "end_ns": 630279712292,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 14.304562666
+    },
+    "window_3": {
+      "start_ns": 631680159584,
+      "end_ns": 643784027626,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 12.103868042
+    },
+    "window_4": {
+      "start_ns": 644984411376,
+      "end_ns": 658888859376,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 13.904448
+    },
+    "window_5": {
+      "start_ns": 660189275501,
+      "end_ns": 674293791084,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 14.104515583000001
+    },
+    "window_6": {
+      "start_ns": 675894303709,
+      "end_ns": 689798758084,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 13.904454375
+    },
+    "window_7": {
+      "start_ns": 691899430918,
+      "end_ns": 705903916418,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 14.004485500000001
+    },
+    "window_8": {
+      "start_ns": 707504428793,
+      "end_ns": 724009713543,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 16.50528475
+    },
+    "window_9": {
+      "start_ns": 725910322001,
+      "end_ns": 741115193251,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 15.20487125
+    }
+  },
+  "kitchen_7__kitchen_7_2-4-6-8_gripper_vrs": {
+    "window_0": {
+      "start_ns": 873829896215,
+      "end_ns": 890435122590,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 16.605226375
+    },
+    "window_1": {
+      "start_ns": 893135976383,
+      "end_ns": 905739970840,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 12.603994457
+    },
+    "window_2": {
+      "start_ns": 908040701632,
+      "end_ns": 922945443673,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 14.904742041
+    },
+    "window_3": {
+      "start_ns": 924746017090,
+      "end_ns": 938550419798,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 13.804402708000001
+    },
+    "window_4": {
+      "start_ns": 940350994590,
+      "end_ns": 955655883382,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 15.304888792000002
+    },
+    "window_5": {
+      "start_ns": 957556490965,
+      "end_ns": 972561286882,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 15.004795917000001
+    },
+    "window_6": {
+      "start_ns": 974061766590,
+      "end_ns": 988666438590,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 14.604672
+    },
+    "window_7": {
+      "start_ns": 990567046757,
+      "end_ns": 1005771914257,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 15.2048675
+    }
+  },
+  "livingroom_1__livingroom_1_1-7_gripper_vrs": {
+    "window_0": {
+      "start_ns": 150089107081,
+      "end_ns": 160792735332,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 10.703628251000001
+    },
+    "window_1": {
+      "start_ns": 162193210123,
+      "end_ns": 173013549164,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.820339041
+    },
+    "window_2": {
+      "start_ns": 174364007832,
+      "end_ns": 183817212040,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 9.453204208
+    },
+    "window_3": {
+      "start_ns": 185367735664,
+      "end_ns": 193870597664,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 8.502862
+    },
+    "window_4": {
+      "start_ns": 195221050539,
+      "end_ns": 204824259332,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 9.603208793
+    },
+    "window_5": {
+      "start_ns": 206424792082,
+      "end_ns": 215727878622,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 9.30308654
+    },
+    "window_6": {
+      "start_ns": 216828242790,
+      "end_ns": 227915248581,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 11.087005791000001
+    },
+    "window_7": {
+      "start_ns": 229215681207,
+      "end_ns": 239519122665,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 10.303441458
+    },
+    "window_8": {
+      "start_ns": 241019625290,
+      "end_ns": 252223388290,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 11.203763
+    },
+    "window_9": {
+      "start_ns": 253523825790,
+      "end_ns": 263427157957,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 9.903332167
+    },
+    "window_10": {
+      "start_ns": 264627561997,
+      "end_ns": 276431545331,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 11.803983334000002
+    },
+    "window_11": {
+      "start_ns": 277631951040,
+      "end_ns": 289035809539,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 11.403858499
+    },
+    "window_12": {
+      "start_ns": 290536317873,
+      "end_ns": 302340319747,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 11.804001874
+    },
+    "window_13": {
+      "start_ns": 304140930623,
+      "end_ns": 314144326623,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 10.003396
+    }
+  },
+  "livingroom_1__livingroom_1_8-14_gripper_vrs": {
+    "window_0": {
+      "start_ns": 927348111150,
+      "end_ns": 937851679817,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 10.503568667000001
+    },
+    "window_1": {
+      "start_ns": 939202137525,
+      "end_ns": 949105489858,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 9.903352333
+    },
+    "window_2": {
+      "start_ns": 951006131901,
+      "end_ns": 963810445442,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 12.804313541
+    },
+    "window_3": {
+      "start_ns": 965511016942,
+      "end_ns": 974664088108,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 9.153071166
+    },
+    "window_4": {
+      "start_ns": 976264624525,
+      "end_ns": 986217956317,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 9.953331792
+    },
+    "window_5": {
+      "start_ns": 987718457733,
+      "end_ns": 996921529693,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 9.20307196
+    },
+    "window_6": {
+      "start_ns": 998171946483,
+      "end_ns": 1009559078401,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 11.387131918000001
+    },
+    "window_7": {
+      "start_ns": 1010859514234,
+      "end_ns": 1020462741900,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 9.603227666
+    },
+    "window_8": {
+      "start_ns": 1023563788025,
+      "end_ns": 1037668561317,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 14.104773292
+    },
+    "window_9": {
+      "start_ns": 1038768934942,
+      "end_ns": 1049172475025,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 10.403540083000001
+    },
+    "window_10": {
+      "start_ns": 1050572952318,
+      "end_ns": 1068178962525,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 17.606010207
+    },
+    "window_11": {
+      "start_ns": 1069579441275,
+      "end_ns": 1082350480983,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 12.771039708
+    },
+    "window_12": {
+      "start_ns": 1083700943900,
+      "end_ns": 1108309296734,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 24.608352834
+    },
+    "window_13": {
+      "start_ns": 1109659750734,
+      "end_ns": 1122213957025,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 12.554206291000002
+    }
+  },
+  "office_1__office_1_8-14_gripper_vrs": {
+    "window_0": {
+      "start_ns": 1182959092005,
+      "end_ns": 1196063289214,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 13.104197209
+    },
+    "window_1": {
+      "start_ns": 1196663481339,
+      "end_ns": 1206866747422,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.203266083
+    },
+    "window_2": {
+      "start_ns": 1207466939589,
+      "end_ns": 1217270075673,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 9.803136084
+    },
+    "window_3": {
+      "start_ns": 1217970299672,
+      "end_ns": 1228373625922,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 10.403326250000001
+    },
+    "window_4": {
+      "start_ns": 1228873785880,
+      "end_ns": 1240577526505,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 11.703740625
+    },
+    "window_5": {
+      "start_ns": 1241077686380,
+      "end_ns": 1251481010130,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 10.40332375
+    },
+    "window_6": {
+      "start_ns": 1252081201839,
+      "end_ns": 1262184428172,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 10.103226333
+    },
+    "window_7": {
+      "start_ns": 1262884651880,
+      "end_ns": 1271587431714,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 8.702779834000001
+    },
+    "window_8": {
+      "start_ns": 1272387686797,
+      "end_ns": 1282390879714,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 10.003192917
+    },
+    "window_9": {
+      "start_ns": 1283091102880,
+      "end_ns": 1291993944130,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 8.90284125
+    },
+    "window_10": {
+      "start_ns": 1292794199380,
+      "end_ns": 1303397581839,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 10.603382459
+    },
+    "window_11": {
+      "start_ns": 1304097805422,
+      "end_ns": 1311900293381,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 7.8024879590000005
+    },
+    "window_12": {
+      "start_ns": 1312500484755,
+      "end_ns": 1324404281047,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 11.903796292000001
+    },
+    "window_13": {
+      "start_ns": 1325204536172,
+      "end_ns": 1336208044340,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 11.003508168000002
+    }
+  },
+  "oven_1__oven_1_1-9_gripper_vrs": {
+    "window_0": {
+      "start_ns": 208465702599,
+      "end_ns": 227671748265,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 19.206045666
+    },
+    "window_1": {
+      "start_ns": 229272250391,
+      "end_ns": 239375414683,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 10.103164292
+    },
+    "window_2": {
+      "start_ns": 240675821266,
+      "end_ns": 252279449100,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 11.603627834000001
+    },
+    "window_3": {
+      "start_ns": 253529839432,
+      "end_ns": 262932772933,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 9.402933501000001
+    },
+    "window_4": {
+      "start_ns": 264383225015,
+      "end_ns": 274386340516,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 10.003115501
+    },
+    "window_5": {
+      "start_ns": 275386651765,
+      "end_ns": 284189384641,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 8.802732876
+    },
+    "window_6": {
+      "start_ns": 285689849475,
+      "end_ns": 295142772516,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 9.452923041
+    },
+    "window_7": {
+      "start_ns": 296293127390,
+      "end_ns": 305962785266,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 9.669657876
+    },
+    "window_8": {
+      "start_ns": 307063128683,
+      "end_ns": 316966245100,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 9.903116417000001
+    },
+    "window_9": {
+      "start_ns": 318066593849,
+      "end_ns": 326769365475,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 8.702771626
+    },
+    "window_10": {
+      "start_ns": 327769685224,
+      "end_ns": 336972638307,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 9.202953083
+    },
+    "window_11": {
+      "start_ns": 338072992515,
+      "end_ns": 346175606558,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 8.102614043
+    },
+    "window_12": {
+      "start_ns": 347275962349,
+      "end_ns": 356378910891,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 9.102948542
+    },
+    "window_13": {
+      "start_ns": 357579300391,
+      "end_ns": 363981380307,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 6.402079916000001
+    },
+    "window_14": {
+      "start_ns": 365181770641,
+      "end_ns": 372984311058,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 7.802540417
+    },
+    "window_15": {
+      "start_ns": 374084669558,
+      "end_ns": 380353378516,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 6.268708958
+    },
+    "window_16": {
+      "start_ns": 381553768100,
+      "end_ns": 389206238058,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 7.652469958
+    },
+    "window_17": {
+      "start_ns": 390106527266,
+      "end_ns": 397558908557,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 7.452381291000001
+    }
+  },
+  "oven_2__oven_2_1-5_gripper_vrs": {
+    "window_0": {
+      "start_ns": 1484271604911,
+      "end_ns": 1492474025036,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 8.202420125
+    },
+    "window_1": {
+      "start_ns": 1493674379286,
+      "end_ns": 1500676445036,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 7.002065750000001
+    },
+    "window_2": {
+      "start_ns": 1501776769786,
+      "end_ns": 1509879156994,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 8.102387208
+    },
+    "window_3": {
+      "start_ns": 1510879451869,
+      "end_ns": 1518281633703,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 7.402181834
+    },
+    "window_4": {
+      "start_ns": 1519381958203,
+      "end_ns": 1529084815369,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 9.702857166000001
+    },
+    "window_5": {
+      "start_ns": 1529985080494,
+      "end_ns": 1537487290618,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 7.502210124
+    },
+    "window_6": {
+      "start_ns": 1538387555744,
+      "end_ns": 1546589972203,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 8.202416459
+    },
+    "window_7": {
+      "start_ns": 1547490237493,
+      "end_ns": 1556692945619,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 9.202708126000001
+    },
+    "window_8": {
+      "start_ns": 1557793269119,
+      "end_ns": 1567096006411,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 9.302737292
+    },
+    "window_9": {
+      "start_ns": 1568396388994,
+      "end_ns": 1578699418243,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 10.303029249000001
+    }
+  },
+  "wardrobe_1__wardrobe_1_1-16_gripper_vrs": {
+    "window_0": {
+      "start_ns": 362075575722,
+      "end_ns": 376179859722,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 14.104284000000002
+    },
+    "window_1": {
+      "start_ns": 377080132889,
+      "end_ns": 383181983972,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 6.101851083000001
+    },
+    "window_2": {
+      "start_ns": 384082256804,
+      "end_ns": 402087713555,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 18.005456751
+    },
+    "window_3": {
+      "start_ns": 403288077054,
+      "end_ns": 410090136722,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 6.802059668
+    },
+    "window_4": {
+      "start_ns": 410590288138,
+      "end_ns": 419593012680,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 9.002724542000001
+    },
+    "window_5": {
+      "start_ns": 419793073222,
+      "end_ns": 425794888721,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 6.001815499
+    },
+    "window_6": {
+      "start_ns": 426395070346,
+      "end_ns": 434397489179,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 8.002418833
+    },
+    "window_7": {
+      "start_ns": 434897640389,
+      "end_ns": 441699695055,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 6.802054666
+    },
+    "window_8": {
+      "start_ns": 442099816013,
+      "end_ns": 449301990221,
+      "single_word_description": "open",
+      "index": 5,
+      "duration_s": 7.202174208000001
+    },
+    "window_9": {
+      "start_ns": 450002201679,
+      "end_ns": 457204375014,
+      "single_word_description": "close",
+      "index": 5,
+      "duration_s": 7.202173335
+    },
+    "window_10": {
+      "start_ns": 457704525929,
+      "end_ns": 466207090597,
+      "single_word_description": "open",
+      "index": 6,
+      "duration_s": 8.502564668
+    },
+    "window_11": {
+      "start_ns": 492114896139,
+      "end_ns": 501117605804,
+      "single_word_description": "close",
+      "index": 6,
+      "duration_s": 9.002709665000001
+    },
+    "window_12": {
+      "start_ns": 501317666054,
+      "end_ns": 516038759139,
+      "single_word_description": "open",
+      "index": 7,
+      "duration_s": 14.721093085000001
+    },
+    "window_13": {
+      "start_ns": 516638939555,
+      "end_ns": 523541014346,
+      "single_word_description": "close",
+      "index": 7,
+      "duration_s": 6.902074791
+    },
+    "window_14": {
+      "start_ns": 524041164554,
+      "end_ns": 534644349430,
+      "single_word_description": "open",
+      "index": 8,
+      "duration_s": 10.603184876
+    },
+    "window_15": {
+      "start_ns": 535144499679,
+      "end_ns": 542946843389,
+      "single_word_description": "close",
+      "index": 8,
+      "duration_s": 7.802343710000001
+    },
+    "window_16": {
+      "start_ns": 543446993554,
+      "end_ns": 552549726889,
+      "single_word_description": "open",
+      "index": 9,
+      "duration_s": 9.102733335
+    },
+    "window_17": {
+      "start_ns": 552849817097,
+      "end_ns": 559651859304,
+      "single_word_description": "close",
+      "index": 9,
+      "duration_s": 6.802042207
+    },
+    "window_18": {
+      "start_ns": 560252039513,
+      "end_ns": 568954651805,
+      "single_word_description": "open",
+      "index": 10,
+      "duration_s": 8.702612292000001
+    },
+    "window_19": {
+      "start_ns": 569454801722,
+      "end_ns": 577657260054,
+      "single_word_description": "close",
+      "index": 10,
+      "duration_s": 8.202458332
+    },
+    "window_20": {
+      "start_ns": 578157409971,
+      "end_ns": 587260135847,
+      "single_word_description": "open",
+      "index": 11,
+      "duration_s": 9.102725876000001
+    },
+    "window_21": {
+      "start_ns": 587360165847,
+      "end_ns": 596662952888,
+      "single_word_description": "close",
+      "index": 11,
+      "duration_s": 9.302787041
+    },
+    "window_22": {
+      "start_ns": 597463192763,
+      "end_ns": 604965440596,
+      "single_word_description": "open",
+      "index": 12,
+      "duration_s": 7.502247833
+    },
+    "window_23": {
+      "start_ns": 605565620514,
+      "end_ns": 613367958304,
+      "single_word_description": "close",
+      "index": 12,
+      "duration_s": 7.80233779
+    },
+    "window_24": {
+      "start_ns": 614468287846,
+      "end_ns": 623370951804,
+      "single_word_description": "open",
+      "index": 13,
+      "duration_s": 8.902663958
+    },
+    "window_25": {
+      "start_ns": 623571011805,
+      "end_ns": 631573407346,
+      "single_word_description": "close",
+      "index": 13,
+      "duration_s": 8.002395541
+    },
+    "window_26": {
+      "start_ns": 631773467054,
+      "end_ns": 639775861888,
+      "single_word_description": "open",
+      "index": 14,
+      "duration_s": 8.002394834
+    },
+    "window_27": {
+      "start_ns": 640576101138,
+      "end_ns": 648378433929,
+      "single_word_description": "close",
+      "index": 14,
+      "duration_s": 7.802332791
+    },
+    "window_28": {
+      "start_ns": 648878583555,
+      "end_ns": 659781843930,
+      "single_word_description": "open",
+      "index": 15,
+      "duration_s": 10.903260375
+    },
+    "window_29": {
+      "start_ns": 660382023304,
+      "end_ns": 670018234179,
+      "single_word_description": "close",
+      "index": 15,
+      "duration_s": 9.636210875
+    }
+  },
+  "wardrobe_2__wardrobe_2_1-4_gripper_vrs": {
+    "window_0": {
+      "start_ns": 945115761671,
+      "end_ns": 953918365463,
+      "single_word_description": "open",
+      "index": 1,
+      "duration_s": 8.802603792000001
+    },
+    "window_1": {
+      "start_ns": 954418513213,
+      "end_ns": 962220817838,
+      "single_word_description": "close",
+      "index": 1,
+      "duration_s": 7.8023046250000005
+    },
+    "window_2": {
+      "start_ns": 962820995171,
+      "end_ns": 973124038253,
+      "single_word_description": "open",
+      "index": 2,
+      "duration_s": 10.303043082
+    },
+    "window_3": {
+      "start_ns": 973424127046,
+      "end_ns": 982426783587,
+      "single_word_description": "close",
+      "index": 2,
+      "duration_s": 9.002656541
+    },
+    "window_4": {
+      "start_ns": 983126990129,
+      "end_ns": 994530354588,
+      "single_word_description": "open",
+      "index": 3,
+      "duration_s": 11.403364459
+    },
+    "window_5": {
+      "start_ns": 995230561046,
+      "end_ns": 1006033746962,
+      "single_word_description": "close",
+      "index": 3,
+      "duration_s": 10.803185916
+    },
+    "window_6": {
+      "start_ns": 1006733953421,
+      "end_ns": 1020838112087,
+      "single_word_description": "open",
+      "index": 4,
+      "duration_s": 14.104158666
+    },
+    "window_7": {
+      "start_ns": 1021238229920,
+      "end_ns": 1034342089962,
+      "single_word_description": "close",
+      "index": 4,
+      "duration_s": 13.103860042
+    }
+  }
+}

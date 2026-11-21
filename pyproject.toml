@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egophys"
+version = "0.1.0"
+description = "Peak contact force and mechanical work from egocentric RGB video"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = ["numpy>=2.0,<3", "torch>=2.7,<3", "safetensors>=0.5,<1"]
+
+[project.optional-dependencies]
+prepare = ["pandas>=2.2,<4", "PyYAML>=6,<7", "matplotlib>=3.8,<4", "Pillow>=10,<13", "transformers>=4.56.2,<5"]
+test = ["pytest>=8,<10", "Pillow>=10,<13"]
+
+[project.scripts]
+egophys = "egophys.cli:main"
+egophys-extract = "egophys.extract:main"
+egophys-labels = "egophys.labels:main"
+egophys-geometry = "egophys.geometry:main"
+egophys-manifest = "egophys.manifest:main"
+
+[tool.setuptools.packages.find]
+include = ["egophys*"]
